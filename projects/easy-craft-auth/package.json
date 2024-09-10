@@ -1,0 +1,28 @@
+{
+  "name": "@easy-craft/auth",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "description": "A library for user authentication and authorization",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/violetGekkon/easy-craft-auth.git"
+  },
+  "keywords": [
+    "auth",
+    "lib"
+  ],
+  "author": "sia",
+  "bugs": {
+    "url": "https://github.com/violetGekkon/easy-craft-auth/issues"
+  },
+  "homepage": "https://github.com/violetGekkon/easy-craft-auth#readme"
+}
